@@ -5,3 +5,11 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Zilla+Slab+Highlight:wght@400;700&family=Zilla+Slab:wght@300;700&display=swap" rel="stylesheet"> 
+
+h1 {font-family: 'Zilla Slab Highlight', cursive;}
+h2 {font-family: 'Zilla Slab Highlight', cursive;}
+h3 {font-family: 'Zilla Slab', serif;}
+h4 {font-family: 'Zilla Slab', serif;}
+h5 {font-family: 'Zilla Slab', serif;}
+h6 {font-family: 'Zilla Slab', serif;}
+p {font-family: 'Zilla Slab', serif;}
