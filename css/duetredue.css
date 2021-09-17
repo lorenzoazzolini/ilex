@@ -14,5 +14,7 @@ h5 {font-family: 'Zilla Slab', serif;}
 h6 {font-family: 'Zilla Slab', serif;}
 p {font-family: 'Zilla Slab', serif;}
 
-.display {font-family: 'Zilla Slab Highlight', cursive;}
-.btn {font-family: 'Zilla Slab Highlight', cursive;}
+.display {font-family: 'Zilla Slab', serif;}
+.btn {font-family: 'Zilla Slab', serif;}
+.fw-bold {font-family: 'Zilla Slab Highlight', cursive;}
+.fw-bolder {font-family: 'Zilla Slab Highlight', cursive;}
