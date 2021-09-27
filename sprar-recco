@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+        <meta name="description" content="" />
+        <meta name="author" content="" />
+        <title>Modern Business - Start Bootstrap Template</title>
+        <!-- Favicon-->
+        <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+        <!-- Bootstrap icons-->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.css" rel="stylesheet" />
+        <!-- Core theme CSS (includes Bootstrap)-->
+        <link href="css/styles.css" rel="stylesheet" />
+        <link href="css/duetredue.css" rel="stylesheet" />
+    </head>
+    <body class="d-flex flex-column">
+        <main class="flex-shrink-0">
+            <!-- Navigation-->
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+                <div class="container px-5">
+                    <a class="navbar-brand" href="index.html">DUETREDUE</a>
+                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                            <li class="nav-item"><a class="nav-link" href="index.html">ITA</a></li>
+                            <li class="nav-item"><a class="nav-link" href="about.html">ENG</a></li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+            <!-- Page Content-->
+            <section class="py-5">
+                <div class="container px-5 my-5">
+                    <div class="row gx-5">
+                        <div class="col-lg-3">
+                            <div class="d-none d-lg-block sticky-md-top">
+                                <div class="badge fs-5 mb-1 bg-primary">Inclusione</div>
+                                <div class="badge fs-5 mb-1 bg-primary">Policy making</div>
+                                <hr>
+                                <div class="text-dark small"><i class="bi bi-geo-alt-fill"></i> GENOVA</div>
+                                <div class="text-dark small"><i class="bi bi-hourglass-bottom"></i>1/1/2019 &middot; 31/12/2019</div>
+                                <hr>
+                                <div><a href="index.html" class="btn btn-primary"><i class="bi bi-arrow-left"></i></a></div>
+                            </div>
+                        </div>
+                        <div class="col-lg-9">
+                            <!-- Post content-->
+                            <article>
+                                <!-- Post header-->
+                                <header class="mb-4">
+                                    <!-- Post title-->
+                                    <h1 class="fw-bolder mb-1">SPRAR<br />Recco</h1>
+                                    <div class="d-block d-lg-none d-md-block">
+                                     <hr>
+                                     <div class="badge mb-1 bg-primary">Inclusione</div>
+                                     <div class="badge mb-1 bg-primary">Policy making</div>
+                                     <div class="text-dark small"><i class="bi bi-geo-alt-fill"></i> GENOVA | <i class="bi bi-hourglass-bottom"></i>1/3/2019 &middot; 31/5/2019</div>
+                                    </div>
+                                    <hr>
+                                </header>
+                                <!-- Post content-->
+                                <section class="mb-5">
+                                    <p><b>Finanziatore / Programma / Cliente:</b> Repubblica italiana – Ministero dell’interno, Il Ce.Sto Cooperativa Sociale</p>
+                                    <p><b>Partner:</b> /</p>
+                                    <hr>
+                                    <p>Nel contesto del Comune di Recco e dello SPRAR (Sistema di Protezione per Richiedenti Asilo e Rifugiati) ivi collocato, a DueTreDue è stata commissionata un’analisi di contesto e d’impatto del suddetto SPRAR sul territorio. Lo studio sviluppato da DueTreDue racconta il percorso d’inclusione e di cittadinanza attiva che ha coinvolto i migranti in loco, ed è fondato sulla raccolta, sull’analisi e sul monitoraggio dei dati socio-demografici ed economici di Recco. All’analisi quantitativa ha fatto seguito l’analisi qualitativa delle attività svolte dagli ospiti dello SPRAR, del loro impatto sulla comunità in termini economici e di forza lavoro. </p>
+                                </section>
+                                <hr>
+                                <!-- Preview image figure-->
+                                <figure class="mb-4"><img class="img-fluid rounded" src="assets/spaziature.png" alt="spaziature" /></figure>
+                                <hr>
+                                <a href="index.html" class="btn btn-primary d-block d-lg-none d-md-block"><i class="bi bi-arrow-left"></i></a>
+                            </article>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </main>
+        <!-- Footer-->
+        <footer class="bg-dark py-4 mt-auto">
+            <div class="container px-5">
+                <div class="row align-items-center justify-content-between flex-column flex-sm-row">
+                    <div class="col-auto"><div class="small m-0 text-white">Copyright &copy; DueTreDue Cooperativa</div></div>
+                    <div class="col-auto">
+                        <a class="link-light small" href="#!">Privacy</a>
+                        <span class="text-white mx-1">&middot;</span>
+                        <a class="link-light small" href="#!">Terms</a>
+                        <span class="text-white mx-1">&middot;</span>
+                        <a class="link-light small" href="#!">Contact</a>
+                    </div>
+                </div>
+            </div>
+        </footer>
+        <!-- Bootstrap core JS-->
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js"></script>
+        <!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+    </body>
+</html>
