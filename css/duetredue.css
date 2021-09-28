@@ -33,3 +33,8 @@ opacity: 1;
 .btn.active {
     background: #ff3300;
 }
+
+#chart {
+    width: 100%;
+    height: auto;
+} 
