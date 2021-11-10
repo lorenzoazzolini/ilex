@@ -43,13 +43,16 @@ opacity: 1;
   height: 100vh;
   min-height: 500px;
   background-image: linear-gradient(45deg, rgba(0, 0, 0, 0.80), rgba(13, 110, 253, 0.90)), url("../css/header.png");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.rotate-image {
   transform: rotate(30deg);
             /* All browsers support */
             -moz-transform: rotate(30deg);
             -webkit-transform: rotate(30deg);
             -o-transform: rotate(30deg);
             -ms-transform: rotate(30deg);
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
 }
