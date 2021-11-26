@@ -1,18 +1,17 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Zilla+Slab+Highlight:wght@400;700&display=swap" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/css2?family=Comforter+Brush&family=Courier+Prime&family=Source+Sans+Pro:wght@700&display=swap" rel="stylesheet"> 
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Zilla+Slab+Highlight:wght@400;700&family=Zilla+Slab:wght@300;700&display=swap" rel="stylesheet"> 
+h1 {font-family: 'Comforter Brush', cursive;}
+h2 {font-family: 'Source Sans Pro', sans-serif;}
+h3 {font-family: 'Source Sans Pro', sans-serif;}
+h4 {font-family: 'Source Sans Pro', sans-serif;}
+h5 {font-family: 'Source Sans Pro', sans-serif;}
+h6 {font-family: 'Source Sans Pro', sans-serif;}
+p {font-family: 'Courier Prime', monospace;}
 
-h1 {font-family: 'Zilla Slab Highlight', cursive;}
-h2 {font-family: 'Zilla Slab Highlight', cursive;}
-h3 {font-family: 'Zilla Slab', serif;}
-h4 {font-family: 'Zilla Slab', serif;}
-h5 {font-family: 'Zilla Slab', serif;}
-h6 {font-family: 'Zilla Slab', serif;}
-p {font-family: 'Zilla Slab', serif;}
+#corsivo {font-family: 'Comforter Brush', cursive;}
+#monospace {font-family: 'Courier Prime', monospace;}
 
 .display {font-family: 'Zilla Slab', serif;}
 .btn {font-family: 'Zilla Slab', serif;}
